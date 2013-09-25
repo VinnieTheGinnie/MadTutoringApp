@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UMD Tutoring</string>
+    <string name="hello_world">Hello Mobile App Development Club: HELLO WORLD!!!</string>
+    
+	<string name="bucket">CHANGE ME</string>
+    <string name="access_key_id">CHANGE ME</string>
+    <string name="secret_key">CHANGE ME</string>
+    <string name="title_activity_storage">StorageActivity</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
